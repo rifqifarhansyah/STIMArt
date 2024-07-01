@@ -7,7 +7,7 @@
 <div align=center>
 <img src="./img/1.jpg">
 <br>
-  <b>Fig 1.</b> Contoh tweet yang memiliki indikasi sebagai buzzer tweet
+  <b>Fig 1.</b> Banner andalan PPT Pak Rin
 <br>
 </div>
 <br>
