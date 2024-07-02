@@ -14,6 +14,7 @@
 
 ```diff
 - versi 1 Juli 2024
++ versi 2 Juli 2024
 ```
 
 ## 💡 Latar Belakang
@@ -22,7 +23,7 @@ STIMA (_STrategI algoritMA_) merupakan salah satu mata kuliah di bawah naungan L
 
 ## 📝 Spesifikasi Tugas
 
-Pada tugas ini Anda akan diminta untuk mengimplementasikan sebuah aplikasi _paint_ sederhana dengan tiap fitur dalam aplikasi tersebut merupakan penerapan topik-topik pada mata kuliah strategi algoritma. Para peserta seleksi telah dianggap menyelesaikan tugas ini apabila seluruh spesifikasi wajib + minimal 2 poin spesifikasi lanjutan telah diimplementasikan. 
+Pada tugas ini Anda akan diminta untuk mengimplementasikan sebuah aplikasi _paint_ sederhana dengan tiap fitur dalam aplikasi tersebut merupakan penerapan topik-topik pada mata kuliah strategi algoritma. Para peserta seleksi telah dianggap menyelesaikan tugas ini apabila seluruh spesifikasi wajib + minimal 3 poin spesifikasi lanjutan telah diimplementasikan. 
 
 Berikut merupakan detail untuk spesifikasi wajib dan lanjutan:
 
@@ -51,7 +52,7 @@ STIMArt harus dibuat <b>berbasis GUI</b>. Bahasa dan _techstack_ yang hendak dig
 
 ### Spesifikasi Lanjutan (XXXX Poin)
 
-Anda diperkenankan untuk memilih 2 dari 5 spesifikasi lanjutan dibawah ini untuk diimplementasikan (lebih dari 3 akan dianggap sebagai bonus). Berikut ini adalah pilihan spesifikasi lanjutan yang dapat diimplementasikan:
+Anda diperkenankan untuk memilih 3 dari 5 spesifikasi lanjutan dibawah ini untuk diimplementasikan (lebih dari 3 akan dianggap sebagai bonus). Berikut ini adalah pilihan spesifikasi lanjutan yang dapat diimplementasikan:
 
 1. _Seam Carving_ dengan menggunakan algoritma Dynamic Programming. Fitur ini dapat digunakan untuk me-_resize_ sebuah gambar dengan mengurangi atau menambah pixel dari gambar tersebut untuk menjaga keotentikan gambar itu sendiri.
 2. _Image Denoising_ dengan menggunakan algoritma Dynamic Programming. Fitur ini dapat digunakan untuk mengurangi _noise_ pada sebuah gambar.
