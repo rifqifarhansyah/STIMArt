@@ -18,7 +18,7 @@
 
 ## 💡 Latar Belakang
 
-STIMA (_STrategI algoritMA_) merupakan salah satu mata kuliah di bawah naungan Lab IRK yang paling disukai oleh para mahasiswa, khususnya mahasiswa yang mengikuti seleksi Lab IRK ini. Rasanya aneh jika para pejuang Lab IRK yang amat menyukai STIMA tidak menguasai seluruh topik yang ada diajarkan di mata kuliah ini. Oleh karena itu, kami akan memfasilitasi kalian untuk mengungkapkan besarnya rasa cinta yang kalian miliki pada mata kuliah STIMA melalui pembuatan sebuah aplikasi yang memanfaatkan hampir seluruh algoritma dalam mata kuliah ini. **Sambutlah**, STIMArt (Aplikasi _paint_ ~~sederhana~~ yang memanfaatkan hampir seluruh algoritma dalam mata kuliah _STrategI algoritMA_).
+STIMA (_STrategI algoritMA_) merupakan salah satu mata kuliah di bawah naungan Lab IRK yang paling disukai oleh para mahasiswa, khususnya mahasiswa yang mengikuti seleksi Lab IRK ini. Rasanya aneh jika para pejuang Lab IRK yang amat menyukai STIMA tidak menguasai seluruh topik yang diajarkan di mata kuliah ini. Oleh karena itu, kami akan memfasilitasi kalian untuk mengungkapkan besarnya rasa cinta yang kalian miliki pada mata kuliah STIMA melalui pembuatan sebuah aplikasi yang memanfaatkan hampir seluruh algoritma dalam mata kuliah ini. **Sambutlah**, STIMArt (Aplikasi _paint_ ~~sederhana~~ yang memanfaatkan hampir seluruh algoritma dalam mata kuliah _STrategI algoritMA_).
 
 ## 📝 Spesifikasi Tugas
 
