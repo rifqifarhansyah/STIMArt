@@ -13,8 +13,7 @@
 <br>
 
 ```diff
-- versi 1 Juli 2024
-+ versi 2 Juli 2024
+- versi 10 Agustus 2024
 ```
 
 ## 💡 Latar Belakang
@@ -27,9 +26,9 @@ Pada tugas ini Anda akan diminta untuk mengimplementasikan sebuah aplikasi _pain
 
 Berikut merupakan detail untuk spesifikasi wajib dan lanjutan:
 
-### Spesifikasi Wajib (XXXX Poin)
+### Spesifikasi Wajib (2900 Poin)
 
-STIMArt harus dibuat <b>berbasis GUI</b>. Bahasa dan _techstack_ yang hendak digunakan dibebaskan kepada para mahasiswa (tingkat kesulitan _techstack_ yang dipilih akan mempengaruhi tingkat subjektifitas penilaian). Aplikasi STIMArt harus mengandung beberapa fitur wajib di bawah ini:
+STIMArt harus dibuat <b>berbasis GUI</b>. Bahasa dan _techstack_ yang hendak digunakan dibebaskan kepada para mahasiswa (tingkat kesulitan _techstack_ yang dipilih akan mempengaruhi tingkat subjektifitas penilaian), disarankan untuk menggunakan *PyGame* atau _techstack_ serupa untuk pengerjaan. Aplikasi STIMArt harus mengandung beberapa fitur wajib di bawah ini:
 
 1. Toolbar yang dapat digunakan untuk memilih aksi tertentu (aksi pada spesifikasi wajib, lanjutan, ataupun tambahan fitur kreatifitas).
 2. Tiap aksi yang ada dapat dilakukan dengan menekan _shortcut_ (misal: huruf tertentu pada _keyboard_) dan _context menu_ atau _toolbar_ (sesuaikan penggunaan ketiganya).
@@ -50,11 +49,13 @@ STIMArt harus dibuat <b>berbasis GUI</b>. Bahasa dan _techstack_ yang hendak dig
     - Cara menjalankan aplikasi
     - Referensi Belajar
 
-### Spesifikasi Lanjutan (XXXX Poin)
+> note: _clue_ dari pengerjaan tugas ini sebenarnya terletak di no.6 poin pertama, tentu tidak mungkin untuk melakukan visualisasi hal tersebut apabila tidak ada penggunaan batas-batas canvas dalam bentuk grid tertentu.
+
+### Spesifikasi Lanjutan (900 Poin)
 
 Anda diperkenankan untuk memilih 3 dari 5 spesifikasi lanjutan dibawah ini untuk diimplementasikan (lebih dari 3 akan dianggap sebagai bonus). Berikut ini adalah pilihan spesifikasi lanjutan yang dapat diimplementasikan:
 
-1. _Seam Carving_ dengan menggunakan algoritma Dynamic Programming. Fitur ini dapat digunakan untuk me-_resize_ sebuah gambar dengan mengurangi atau menambah pixel dari gambar tersebut untuk menjaga keotentikan gambar itu sendiri.
+1. _Seam Carving_ dengan menggunakan algoritma Dynamic Programming. Fitur ini dapat digunakan untuk me-_resize_ sebuah gambar dengan mengurangi atau menambah pixel dari gambar tersebut sehingga keotentikan gambar itu sendiri tetap terjaga.
 2. _Image Denoising_ dengan menggunakan algoritma Dynamic Programming. Fitur ini dapat digunakan untuk mengurangi _noise_ pada sebuah gambar.
 3. _Permutations and Combinations_ dengan menggunakan algoritma Brute force. Fitur ini dapat digunakan untuk memberikan saran _color palette_ pada pengguna berdasarkan seluruh warna yang ada di canvas.
 4. _Object Placement_ dengan menggunakan algoritma Greedy. Fitur ini dapat digunakan untuk menentukan _placement_ terbaik dari tiap objek dalam canvas dengan mempertimbangkan metriks evaluasi tertentu (misal: _minimal overlap_, _maximal coverage_, dll).
@@ -76,17 +77,19 @@ Anda diperkenankan untuk memilih 3 dari 5 spesifikasi lanjutan dibawah ini untuk
 ## 📌 Penilaian
 
 > [!CAUTION]
-> Asisten berhak tidak memberikan nilai apabila diketahui terdapat pelanggaran
+> Asisten berhak untuk tidak memberikan nilai apabila diketahui terdapat pelanggaran
 
 Penilaian akan didasarkan pada kesesuaian hasil implementasi dengan spesifikasi di atas.
 
-| Posisi      | Poin Seleksi |
-| ----------- | ------------ |
-| 1           | 2300         |
-| 2           | 2185         |
-| 3           | 2070         |
-| 4           | 1955         |
-| 5 - dst     | 1840         |
+| Spesifikasi                                   | Poin Seleksi |
+| --------------------------------------------- | ------------ |
+| Toolbar                                       | 200          |
+| Shortcut                                      | 200          |
+| Menggambar, menghapus, dan menambahkan gambar | 200          |
+| Ubah z-index                                  | 200          |
+| Fitur-fitur pada poin 6 spesifikasi wajib     | 2000         |
+| README                                        | 100          |
+| Fitur-fitur pada spesifikasi lanjutan         | 900          |
 
 ## 📚 Referensi
 
